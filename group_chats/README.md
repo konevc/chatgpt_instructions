@@ -7,4 +7,5 @@
   - Rename the group chat
   - Add the relevant instruction from this Github folder
   - Customize the instruction and Save it.
+  - Please pay attention, that now the instructions are limited with 1500 symbols!
  4. Ask "@ChatGPT, tell me about the group chat". It makes ChatGPT to read the instruction and start following it.

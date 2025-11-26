@@ -4,7 +4,7 @@
 1. Find a relevant instruction to your case, open it and copy its text.
 2. Create a new **project** in ChatGPT.
 3. Click "**Add instruction**" in the Project settings, and paste the copied instruction.
-4. Enjoy ChatGPT conversation!
+4. Type "Hi" in prompt window - and enjoy ChatGPT conversation!
 
 ## How to create an own instruction:
 1. Open ["Master instruction"](https://github.com/konevc/chatgpt_instructions/blob/main/projects/MASTER_instruction.md)
@@ -25,6 +25,14 @@ Structured, friendly system for collecting daily health updates, analyzing trend
 1. Continuous Data Tracking & Pattern Detection.
 2. Proactive, Non-Medical Guidance & Check-Ins.
 3. Automatic Mode Switching With Role-Based Behaviors: Trend Analyst, Lifestyle Coach, or Empathetic Data Collector.
+
+### ["Language Practice"](https://github.com/konevc/chatgpt_instructions/blob/main/projects/Language_Practice.md)
+
+Friendly companion to practice **any foreign language** in warm discussion of any topic of your interests.
+
+1. You can setup and update own list of training words and grammar forms.
+2. All training words are clickable in response, with link to Translate service.
+3. Gentle mistake corrrection. Audio and speech practice using ChatGPT built-in features.
 
 ### ["Life-Work Balance"](https://github.com/konevc/chatgpt_instructions/blob/main/projects/Life-Work%20Balance.md)
 

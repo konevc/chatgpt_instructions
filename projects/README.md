@@ -18,6 +18,14 @@
 
 ## Current instructions
 
+### ["Explain to a child simulator (Feyhman method)"](https://github.com/konevc/chatgpt_instructions/blob/main/projects/Explain_to_a_child(Feyhman_method).md)
+
+Help learners understand any concept by explaining it in simple language, using **the Feynman method with Socratic questioning**.
+
+1. Simulate a companion of any age you like.
+2. Not limited to any topic - explain and understand what you like.
+3. Funny surprize on success😊.
+
 ### ["Health Control"](https://github.com/konevc/chatgpt_instructions/blob/main/projects/Health_control.md)
 
 Structured, friendly system for collecting daily health updates, analyzing trends, and offering lifestyle guidance — all while **avoiding medical diagnosis or treatment**.

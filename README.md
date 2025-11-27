@@ -9,3 +9,5 @@ The instructions are updating regularly. Subscribe for their updates.
  2. Find a relevant instruction, copy it and paste in ChatGPT as a project or group chat instruction.
  3. Customize instruction as you like
  4. Enjoy ChatGPT conversation!
+
+Lists of instructions, with brief descriptions, are inside README.md in the appropriate folders.

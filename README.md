@@ -5,14 +5,14 @@ The instructions are updating regularly. Subscribe for their updates.
 
 ## We are looking for contributors!
 
-Submit your instructions to improve ChatGPT usgae for all people around the world.
+Submit your instructions to improve ChatGPT usage for all people around the world.
 Read ["Contributing rules"](https://github.com/konevc/chatgpt_instructions/blob/main/CONTRIBUTING.md) for more details.
 
 
 ## How it works:
  1. Select, where do you like to add an instruction: "projects" or "group_chats".
  2. Find a relevant instruction, copy it and paste in ChatGPT as a project or group chat instruction.
- 3. Customize instruction as you like
+ 3. Customize instruction as you like.
  4. Enjoy ChatGPT conversation!
 
 Lists of instructions, with brief descriptions, are inside README.md in the appropriate folders.

@@ -1,8 +1,13 @@
 # Useful instructions for Group Chats and Projects in ChatGPT
 
 These instructions improve the quality of ChatGPT responses within your project and group chats. You can adjust them to your requirements as you like.
-
 The instructions are updating regularly. Subscribe for their updates.
+
+## We are looking for contributors!
+
+Submit your instructions to improve ChatGPT usgae for all people around the world.
+Read ["Contributing rules"](https://github.com/konevc/chatgpt_instructions/blob/main/CONTRIBUTING.md) for more details.
+
 
 ## How it works:
  1. Select, where do you like to add an instruction: "projects" or "group_chats".

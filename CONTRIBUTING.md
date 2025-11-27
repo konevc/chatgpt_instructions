@@ -6,31 +6,26 @@ We welcome improvements, new instructions, fixes, and ideas from the community.
 
 ## 🚀 How to Contribute
 
-### Add a New Instruction
+### 1. Add a New Instruction
 We accept new instructions on any topic, as long as they are:
 - **Useful** (solves a real task or workflow)
 - **Clear** (structured, easy to understand)
 - **Actionable** (can be used directly in ChatGPT)
 - **Tested** (works in ChatGPT’s “Projects” or regular chats)
 
-To add an instruction:
-1. Open "/on_review" folder:
-2. Add a new instruction file in Markdown format. The file name should be with latin letters, digits and "_" only, e.g. `business_assistant.md`.
-3. Submit a **Pull Request (PR)**.
+🛠️ [How to Submit a Pull Request](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source#creating-your-own-copy-of-a-project)
+1. Fork the repository  
+2. Create a new branch  
+3. Add your changes  
+4. Commit using a clear message  
+5. Open a Pull Request to `main`  
+6. Provide short explanation of your contribution
 
-### How to create own instruction
-1. Open ["Master instruction"](https://github.com/konevc/chatgpt_instructions/blob/main/projects/MASTER_instruction.md)
-2. Copy the text of this instruction.
-3. Create a new **project** called "Master Project" in ChatGPT.
-4. Click "**Add instruction**" in the Project settings, and paste the copied instruction.
-5. Type a prompt with brief description of you future instruction.
-6. Answer the questions to clarify all detais on your instruction => after the 6th step, ChatGPT prints the final edition in markdown format.
-7. Test this instruction in your Project.
-8. **Contribute your instruction** to this Github repo. Let's make ChatGPT smarter)
+We review PRs regularly and aim to reply quickly.
 
 ---
 
-## 2. Improve Existing Instructions
+### 2. Improve Existing Instructions
 You can:
 - Fix grammar or clarity
 - Improve formatting
@@ -42,7 +37,7 @@ Just open a PR with a clear description of your improvement.
 
 ---
 
-## 3. Submit Ideas or Issues
+### 3. Submit Ideas or Issues
 If you don’t want to write the instruction yourself, you can still help:
 - Suggest topics
 - Report problems
@@ -53,16 +48,15 @@ Open an Issue using the template:
 
 ---
 
-## 🛠️ How to Submit a Pull Request
-
-1. Fork the repository  
-2. Create a new branch  
-3. Add your changes  
-4. Commit using a clear message  
-5. Open a Pull Request to `main`  
-6. Provide short explanation of your contribution
-
-We review PRs regularly and aim to reply quickly.
+## Tips to create own instruction
+1. Open ["Master instruction"](https://github.com/konevc/chatgpt_instructions/blob/main/projects/MASTER_instruction.md)
+2. Copy the text of this instruction.
+3. Create a new **project** called "Master Project" in ChatGPT.
+4. Click "**Add instruction**" in the Project settings, and paste the copied instruction.
+5. Type a prompt with brief description of you future instruction.
+6. Answer the questions to clarify all detais on your instruction => after the 6th step, ChatGPT prints the final edition in markdown format.
+7. Test this instruction in your Project.
+8. **Contribute your instruction** to this Github repo. Let's make ChatGPT smarter)
 
 ---
 

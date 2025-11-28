@@ -1,0 +1,79 @@
+name: "🧩 New Instruction"
+description: "Propose a new instruction for the ChatGPT Projects library"
+title: "[Instruction] <short title here>"
+labels:
+  - "new instruction"
+  - "contribution"
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing a new instruction!  
+        Please fill out the fields below so we can understand, review, and add it to the library.
+
+  - type: input
+    id: instruction_title
+    attributes:
+      label: Instruction title
+      description: A short, clear title for your instruction.
+      placeholder: e.g. "Project Manager – Daily Planning Assistant"
+    validations:
+      required: true
+
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose
+      description: What is this instruction for? Who should use it and what problem does it solve?
+      placeholder: |
+        Example:
+        - Helps a project manager plan their day using ChatGPT.
+        - Target users: PMs, team leads.
+    validations:
+      required: true
+
+  - type: textarea
+    id: when_to_use
+    attributes:
+      label: When to use
+      description: Typical scenarios / workflows where this instruction is helpful.
+      placeholder: |
+        Example:
+        - At the beginning of the work day to plan tasks.
+        - Before weekly review meetings.
+    validations:
+      required: false
+
+  - type: textarea
+    id: full_instruction
+    attributes:
+      label: Full instruction (copy & paste)
+      description: The full text of the instruction that can be pasted into ChatGPT.
+      placeholder: |
+        Paste your full instruction here.
+      render: markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example usage
+      description: 1–3 example prompts and expected responses.
+      placeholder: |
+        Example:
+        - Prompt: "Plan my day based on these tasks: ..."
+        - Expected behavior: the assistant groups tasks, sets priorities, etc.
+      render: markdown
+    validations:
+      required: false
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags (e.g. "project-management, productivity, planning").
+      placeholder: project-management, productivity
+    validations:
+      required: false

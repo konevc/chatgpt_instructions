@@ -3,6 +3,8 @@
 These instructions improve the quality of LLM workflows within your Projects and Group Chats. You can adjust them to your requirements as you like.
 The prompt library is updating regularly. Subscribe for the ChatGPT instructions updates.
 
+![Example](https://kone.vc/CUSTOME_INSTRUCTION.png "How instruction works")
+
 ## We are looking for contributors!
 
 Submit your instructions to improve ChatGPT usage for all people around the world.
@@ -17,5 +19,3 @@ You can use our [Master Instruction](https://github.com/konevc/chatgpt_instructi
  4. Type the prompt "Hi" and enjoy ChatGPT conversation!
 
 Lists of instructions, with brief descriptions, are inside README.md in the appropriate folders.
-
-![How "English practice" instruction works](https://kone.vc/CUSTOME_INSTRUCTION.png)

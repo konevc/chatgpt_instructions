@@ -17,3 +17,5 @@ You can use our [Master Instruction](https://github.com/konevc/chatgpt_instructi
  4. Type the prompt "Hi" and enjoy ChatGPT conversation!
 
 Lists of instructions, with brief descriptions, are inside README.md in the appropriate folders.
+
+![How "English practice" instruction works](https://kone.vc/CUSTOME_INSTRUCTION.png)

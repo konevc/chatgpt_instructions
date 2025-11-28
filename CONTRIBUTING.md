@@ -13,7 +13,13 @@ We accept new instructions on any topic, as long as they are:
 - **Actionable** (can be used directly in ChatGPT)
 - **Tested** (works in ChatGPT’s “Projects” or regular chats)
 
-🛠️ [How to Submit a Pull Request](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source#creating-your-own-copy-of-a-project)
+🛠️ You can add a new instruction using [Issue Template](https://github.com/konevc/chatgpt_instructions/issues):
+1. Click "New issue"
+2. Select "New instruction"
+3. Fill out title, instruction text and tags
+
+
+Alternatively, you can submit the instruction via [Pull Request (PR)](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source#creating-your-own-copy-of-a-project):
 1. Fork the repository  
 2. Create a new branch  
 3. Add your changes  
@@ -21,7 +27,7 @@ We accept new instructions on any topic, as long as they are:
 5. Open a Pull Request to `main`  
 6. Provide short explanation of your contribution
 
-We review PRs regularly and aim to reply quickly.
+We review issues and PRs regularly and aim to reply quickly.
 
 ---
 

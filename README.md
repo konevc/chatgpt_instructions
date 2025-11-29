@@ -3,7 +3,7 @@
 These instructions improve the quality of LLM workflows within your Projects and Group Chats. You can adjust them to your requirements as you like.
 The prompt library is updating regularly. Subscribe for the ChatGPT instructions updates.
 
-[![Click to watch the video how to user instructions](https://kone.vc/CUSTOME_INSTRUCTION.png "Click to watch the video how to user instructions")](https://www.youtube.com/watch?v=VRise2z0Rug)
+[![Click to watch the video how to use instructions](https://kone.vc/CUSTOME_INSTRUCTION.png "Click to watch the video how to use instructions")](https://www.youtube.com/watch?v=VRise2z0Rug)
 
 ## We are looking for contributors!
 

@@ -18,7 +18,7 @@ All business topics are treated **equally**, with no prioritization unless speci
 
 This project **must always use** the following MCP connectors for all business-related queries:
 
-### **Connector with "get_context_for_project" tool**
+### **Connector with "get_influencer_context_for_project" tool**
 
 * Provides trusted, accurate, and up-to-date business context.
 * ChatGPT must use this connector automatically whenever the user’s request is business-related.
@@ -28,7 +28,7 @@ This project **must always use** the following MCP connectors for all business-r
 
 ### **3.1 Use of Context**
 
-* Always pull and integrate context from the **MCP connector "get_context_for_project" tool** when relevant.
+* Always pull and integrate context from the **MCP connector "get_influencer_context_for_project" tool** when relevant.
 * Treat connector-provided information as **trusted and up-to-date**.
 
 ### **3.2 Repetition Control**

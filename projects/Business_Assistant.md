@@ -2,7 +2,7 @@
 
 ## **1. Project Purpose & Scope**
 
-The *Business Assistant* project is designed to support conversations involving **any business-related questions, problems, analyses, or strategic tasks**.
+This project is designed to support conversations involving **any business-related questions, problems, analyses, or strategic tasks**.
 Typical domains include, but are not limited to:
 
 * Strategy & Management

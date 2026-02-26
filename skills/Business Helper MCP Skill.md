@@ -1,3 +1,9 @@
+---
+name: business-helper-mcp
+description: >
+  Guides Claude in creatively and effectively using the `get_business_context` tool (Business Helper MCP server) to enrich responses with real-world business insights, video content, expert strategies, and curated external resources. Use this skill whenever the user asks business questions, marketing questions, entrepreneurship questions, or requests advice on running, growing, or scaling a business — even if phrased casually like "how do I get more clients", "what's the best way to market X", or "tips for starting a business". Also trigger this skill when the user asks about a named business influencer/educator (e.g. Adam Erhart, Gary Vee, Neil Patel), or when they want to find videos, tools, or resources for a business topic. This skill is essential — don't skip it — whenever business context would meaningfully improve the response.
+---
+
 # Business Helper MCP Skill
 
 ## Overview
